@@ -78,7 +78,7 @@ font-family: Avenir; font-size: 12px; }
 -------------------------------------*/
 @media screen and (min-width:500px) {
 
-body { background-image: url(../_img/triangle-bg_02.jpg); 
+body { background-image: url(../img/triangle-bg_02.jpg); 
 background-repeat: no-repeat;
 background-position: center;
 
@@ -86,7 +86,7 @@ background-position: center;
 
 @media screen and (min-width:900px) {
 
-body { background-image: url(../_img/triangle-bg_02.jpg); 
+body { background-image: url(../img/triangle-bg_02.jpg); 
 background-repeat: no-repeat;
 background-position: -100px 230px;
 background-size: 1600px; }
@@ -130,7 +130,7 @@ font-size: 11px;}
 
 .design-selection li {
 display: block; 
-background-image: url(../_img/people2_07.png);
+background-image: url(../img/people2_07.png);
 
 margin-bottom: 15px;
 height: 130px;
@@ -188,7 +188,7 @@ line-height: 40px;
 display: block;
 
 line-height: 200px;
-background-image: url(../_img/people2_07.png);
+background-image: url(../img/people2_07.png);
 margin-bottom: 5px;
 height: 130px;
 width: 355px;
@@ -201,7 +201,7 @@ font-family: Avenir; font-size: 10px;
 }
 
 .zen-resources a:hover, .design-archives a:hover 
-{background-image: url(../_img/people2_07.png);}
+{background-image: url(../img/people2_07.png);}
 
 /*--------------------------
 |H3 Animated Background
@@ -211,7 +211,7 @@ line-height: 100px;
 font-size: 30px;
 font-family: 'Poiret One', cursive;
 
-background-image: url(../_img/titles_02.png);
+background-image: url(../img/titles_02.png);
 text-align: center;
 
 background-position: left top;
